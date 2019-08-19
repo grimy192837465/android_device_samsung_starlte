@@ -3,7 +3,7 @@
 
 $(call inherit-product, device/samsung/starlte/full_starlte.mk)
 
-PRODUCT_NAME := lineage_starlte
+PRODUCT_NAME := starlte
 
 BUILD_FINGERPRINT := samsung/starltexx/starlte:9/PPR1.180610.011/G960FXXU4CSE3:user/release-keys
 
