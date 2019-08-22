@@ -27,4 +27,4 @@ PRODUCT_LOCALES := en-GB
 
 # Keylayout
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/keylayout/starlte.kl:system/usr/keylayout/starlte.kl
+    $(DEVICE_PATH)/keylayout/starlte.kl:system/usr/keylayout/starlte.kl
