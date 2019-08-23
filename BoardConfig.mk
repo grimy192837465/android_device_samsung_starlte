@@ -24,7 +24,3 @@ TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)/releasetools
 
 # Set default locale
 PRODUCT_LOCALES := en-GB
-
-# Keylayout
-PRODUCT_COPY_FILES += \
-    $(DEVICE_PATH)/keylayout/starlte.kl:system/usr/keylayout/starlte.kl
